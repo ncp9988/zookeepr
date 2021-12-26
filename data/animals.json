@@ -144,6 +144,16 @@
         "hungry"
       ],
       "id": "14"
+    },
+    {
+      "name": "khi",
+      "species": "a",
+      "diet": "folivore",
+      "personalityTraits": [
+        "hungry",
+        "zany"
+      ],
+      "id": "15"
     }
   ]
 }
